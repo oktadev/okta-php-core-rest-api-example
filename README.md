@@ -2,7 +2,7 @@
 
 This example shows how to build a simple REST API in core PHP and secure it with Okta using OAuth 2.0 Client Credentials Flow.
 
-Please read <article placeholder> to see how this application was built.
+Please read https://developer.okta.com/blog/2019/03/08/simple-rest-api-php to see how this application was built.
 
 **Prerequisites:** PHP, Composer, MySQL, [Okta developer account](https://developer.okta.com/)
 
